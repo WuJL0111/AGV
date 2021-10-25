@@ -1,0 +1,10 @@
+D:\wujialiang\AGV\AGV\bin\Debug\AGV.exe.config
+D:\wujialiang\AGV\AGV\bin\Debug\AGV.exe
+D:\wujialiang\AGV\AGV\bin\Debug\AGV.pdb
+D:\wujialiang\AGV\AGV\obj\Debug\AGV.Properties.Resources.resources
+D:\wujialiang\AGV\AGV\obj\Debug\AGV.csproj.GenerateResource.cache
+D:\wujialiang\AGV\AGV\obj\Debug\AGV.csproj.CoreCompileInputs.cache
+D:\wujialiang\AGV\AGV\obj\Debug\AGV.exe
+D:\wujialiang\AGV\AGV\obj\Debug\AGV.pdb
+D:\wujialiang\AGV\AGV\obj\Debug\AGV.Form1.resources
+D:\wujialiang\AGV\AGV\obj\Debug\AGV.csprojAssemblyReference.cache
